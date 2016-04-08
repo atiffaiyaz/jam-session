@@ -1,0 +1,15 @@
+TODO:
+- Build Drum track
+- select key and tempo
+- select tone for rhythm
+- select tone for lead
+- record tone and fx settings in a file
+
+- construct first progression
+  * chord list
+
+- construct first melody
+  * sprockets list
+  * arpeggios list
+
+- choose a song structure
