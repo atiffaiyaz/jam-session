@@ -1,15 +1,32 @@
 TODO:
 - Build Drum track
+  <Done> Select a set of drum beats for the first section
+  <    > add/remove beats and sections to conform to song structure
+   
 - select key and tempo
+  <Done> Key - E Harmonic Minor
+  <    >Tempo xxx
+  
 - select tone for rhythm
+ <    > eq settings
+ <    > FX settings
+ <    > vst/amp name
+ 
 - select tone for lead
+ <    > eq settings
+ <    > FX settings
+ <    > vst/amp name
+ 
 - record tone and fx settings in a file
+ <    > eq settings
+ <    > FX settings
+ <    > vst/amp name
 
 - construct first progression
   * chord list
 
 - construct first melody
   * sprockets list
-  * arpeggios list
+  * arpeggio progression
 
 - choose a song structure
