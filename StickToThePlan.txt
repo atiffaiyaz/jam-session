@@ -23,10 +23,14 @@ TODO:
  <    > vst/amp name
 
 - construct first progression
-  * chord list
+ <    > chord list
 
 - construct first melody
-  * sprockets list
-  * arpeggio progression
+ <    > sprockets list
+ <    > arpeggio progression
 
 - choose a song structure
+ <    > what type of sections?
+ <    > list each section name,purpose
+     
+ 
